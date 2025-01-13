@@ -1,0 +1,100 @@
+<resources>
+<!--    <string name="app_name">Proyek_APP</string>-->
+    <string name="app_name">Movie List</string>
+
+    <string name="films_name">Nama Film</string>
+    <string name="descrip">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="img_content_description">Gambar poster film</string>
+    <string name="about">About</string>
+    <string name="nama_about">Vikri Wahyu Ramadhan</string>
+    <string name="emaill_about">vikriwahyu28@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Avengers End Game</item>
+        <item>Fall Guy</item>
+        <item>Interstellar</item>
+        <item>John Wick 2</item>
+        <item>Kingsman</item>
+        <item>Spiderman No Way Home</item>
+        <item>Top Gun </item>
+        <item>Transformers Rise of Beast</item>
+        <item>Uncharted</item>
+        <item>Wrath of Man</item>
+    </string-array>
+    <string-array name="data_descrip">
+        <item>Melanjutkan Avengers Infinity War, dimana kejadian setelah Thanos berhasil mendapatkan semua infinity stones dan memusnahkan 50% semua mahluk hidup di alam semesta. Akankah para Avengers berhasil mengalahkan Thanos</item>
+        <item>Film komedi laga Amerika Serikat tahun 2024 yang disutradarai oleh David Leitch. Film tersebut dibintangi oleh Ryan Gosling, Emily Blunt, dan Aaron Taylor-Jhonson</item>
+        <item>Interstellar adalah film fiksi ilmiah epos tahun 2014 yang disutradarai oleh Christopher Nolan dan diproduseri oleh Emma Thomas, Christopher Nolan dan Lynda Obst. </item>
+        <item>John Wick: Chapter 2 adalah film aksi laga thriller Amerika Serikat tahun 2017 yang disutradarai oleh Chad Stahelski dan diproduseri oleh Basil Iwanyk dan Erica Lee.</item>
+        <item>Seorang veteran agen rahasia merekrut remaja untuk dilatih menjadi agen rahasia hebat.</item>
+        <item>Pertama kalinya dalam sejarah layar lebar Spider-Man, identitas asli dari pahlawan nan ramah ini terbongkar, sehingga membuat tanggung jawabnya sebagai seorang berkekuatan super berbenturan dengan kehidupan normalnya, dan menempatkan semua orang terdekatnya dalam posisi paling terancam.</item>
+        <item>Lebih dari 30 tahun mengabdi sebagai salah satu penerbang Angkatan Laut terbaik, Pete “Maverick” Mitchell berada dalam posisi dambaannya, melakukan aksi-aksi mendobrak sebagai pilot uji nan pemberani.</item>
+        <item>Transformers: Rise of the Beasts akan membawa penonton dalam petualangan keliling dunia tahun 90-an dengan Autobots dan memperkenalkan generasi baru Transformer – Maximals – ke pertempuran yang ada di bumi antara Autobots dan Decepticons.</item>
+        <item>Nathan Drake direkrut oleh pemburu harta karun berpengalaman Victor Sullivan (Sully) untuk mengembalikan kekayaan yang dikumpulkan oleh Ferdinand Magellan dan hilang 500 tahun yang lalu oleh House of Moncada.</item>
+        <item>Seorang penjaga baru yang misterius dan liar di sebuah perusahaan keamanan pengangkut uang (Jason Statham) mengejutkan rekan kerjanya, ketika terjadi perampokan dia tanpa henti melepaskan keterampilan presisinya dalam bersenjata.</item>
+
+    </string-array>
+    <string-array name="detail_sutradara">
+        <item>Anthony Russo, Joe Russo</item>
+        <item>David Leitch</item>
+        <item>Christopher Nolan</item>
+        <item>Chad Stahelski</item>
+        <item>Matthew Vaughn</item>
+        <item>Jon Watts</item>
+        <item>Joseph Kosinski</item>
+        <item>Steven Caple Jr.</item>
+        <item>Ruben Fleischer</item>
+        <item>Guy Ritchie</item>
+    </string-array>
+    <string-array name="detail_pemeran">
+        <item>Robert Downey Jr.; Chris Evans; Mark Ruffalo; Chris Hemsworth; Scarlett Johansson</item>
+        <item>Ryan Gosling; Emily Blunt; Aaron Taylor-Johnson; Hannah Waddingham</item>
+        <item>Matthew McConaughey; Anne Hathaway; Jessica Chastain; Michael Caine</item>
+        <item>Keanu Reeves; Common; Laurence Fishburne</item>
+        <item>Colin Firth; Samuel L. Jackson; Mark Strong; Taron Egerton; Michael Caine</item>
+        <item>Tom Holland; Zendaya; Benedict Cumberbatch; Jacob Batalon</item>
+        <item>Tom Cruise; Miles Teller; Jennifer Connelly; Jon Hamm</item>
+        <item>Anthony Ramos; Dominique Fishback; Tobe Nwigwe; Peter Cullen</item>
+        <item>Tom Holland; Mark Wahlberg; Sophia Taylor Ali; Tati Gabrielle</item>
+        <item>Jason Statham; Holt McCallany; Jeffrey Donovan; Josh Hartnett</item>
+    </string-array>
+    <string-array name="detail_durasi">
+        <item>181 </item>
+        <item>126</item>
+        <item>169</item>
+        <item>122</item>
+        <item>129</item>
+        <item>148</item>
+        <item>131</item>
+        <item>127</item>
+        <item>116</item>
+        <item>119</item>
+    </string-array>
+    <string-array name="detail_tglRilis">
+        <item>24 April 2019 (Indonesia)</item>
+        <item>3 Mei 2024 (Amerika)</item>
+        <item>6 November 2014 (Indonesia)</item>
+        <item>8 Februari 2017 (Indonesia)</item>
+        <item>11 Februari 2015 (Indonesia)</item>
+        <item>15 Desember 2021 (Indonesia)</item>
+        <item>27 Mei 2022 (Amerika)</item>
+        <item>7 Juni 2023 (Indonesia)</item>
+        <item>16 Februari 2022 (Indonesia)</item>
+        <item>5 Mei 2021 (Indonesia)</item>
+    </string-array>
+    <integer-array name="data_poster">
+        <item>@drawable/avengers_endgame</item>
+        <item>@drawable/fall_guy</item>
+        <item>@drawable/interstellar_film</item>
+        <item>@drawable/john_wick_2</item>
+        <item>@drawable/kingsman</item>
+        <item>@drawable/no_way_home</item>
+        <item>@drawable/top_gun_mav</item>
+        <item>@drawable/transformers_rise_of_the_beats</item>
+        <item>@drawable/uncharted</item>
+        <item>@drawable/wrath_of_man</item>
+
+    </integer-array>
+</resources>
